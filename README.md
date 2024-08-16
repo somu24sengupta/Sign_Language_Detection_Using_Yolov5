@@ -19,4 +19,4 @@ Gesture Expansion: Integrate more sign language gestures into the model.
 Multi-language Support: Expand the model to recognize different sign languages from various regions.
 Improved Accuracy: Continuously refine the model using larger and more diverse datasets.
 # Acknowledgments
-Special thanks to the open-source community for their valuable datasets and tools.
+Special thanks to Nicholas Renotte (nicknochnacks) for his project tutorial following which I was able to create my own custom dataset.
