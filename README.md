@@ -12,6 +12,12 @@ YOLOv5: The project utilizes YOLOv5, a state-of-the-art object detection algorit
 Dataset: The model is trained on a custom dataset containing labeled images of various sign language gestures.
 Frameworks and Libraries: Python, OpenCV, PyTorch, and TensorFlow are some of the primary technologies used in this project.
 Environment: The model is developed and trained using Jupyter Notebooks, and can be deployed in various environments including Google Colab, local machines, or cloud-based services.
+# Training the model
+Training Data
+![train_batch0](https://github.com/user-attachments/assets/d732b84e-5f58-4f9d-a3f7-9101a26a5ded)
+![train_batch1](https://github.com/user-attachments/assets/d63cd54d-85f0-40ea-814f-18e13b8875ed)
+Validation data 
+![val_batch0_labels](https://github.com/user-attachments/assets/1e7de8ce-ea96-4987-9558-e0f29ebb3819)
 # Usage
 Real-Time Detection: The system will start detecting sign language gestures in real-time. Detected gestures will be displayed on the screen along with their corresponding labels.
 # Future Work
