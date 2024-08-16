@@ -18,6 +18,15 @@ Environment: The model is developed and trained using Jupyter Notebooks, and can
 ![train_batch1](https://github.com/user-attachments/assets/d63cd54d-85f0-40ea-814f-18e13b8875ed)
 # Validation data 
 ![val_batch0_labels](https://github.com/user-attachments/assets/1e7de8ce-ea96-4987-9558-e0f29ebb3819)
+# Parameters
+# F1 Curve
+![F1_curve](https://github.com/user-attachments/assets/c97ba0fe-8b7c-4426-8365-550c04bd9b05)
+# Confusion Matrix
+![confusion_matrix](https://github.com/user-attachments/assets/e5828669-58ff-4275-89bf-5f1d189ff14f)
+# Labels
+![labels](https://github.com/user-attachments/assets/067a3234-6ee6-45b0-ad45-a93197cbdd5e)
+# Result 
+![results](https://github.com/user-attachments/assets/2bdd8c2e-1e8c-4e5b-865b-b4c127e8a6f0)
 # Usage
 Real-Time Detection: The system will start detecting sign language gestures in real-time. Detected gestures will be displayed on the screen along with their corresponding labels.
 # Future Work
