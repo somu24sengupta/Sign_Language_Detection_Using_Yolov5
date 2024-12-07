@@ -19,8 +19,6 @@ Environment: The model is developed and trained using Jupyter Notebooks, and can
 # Validation data 
 ![val_batch0_labels](https://github.com/user-attachments/assets/1e7de8ce-ea96-4987-9558-e0f29ebb3819)
 # Parameters
-# F1 Curve
-![F1_curve](https://github.com/user-attachments/assets/c97ba0fe-8b7c-4426-8365-550c04bd9b05)
 # Confusion Matrix
 ![confusion_matrix](https://github.com/user-attachments/assets/e5828669-58ff-4275-89bf-5f1d189ff14f)
 # Labels
